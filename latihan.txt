@@ -1,3 +1,5 @@
 latihan github
 
 mencoba membuat branch1
+
+mochi mau pull request
